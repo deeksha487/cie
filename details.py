@@ -8,10 +8,10 @@ if len(sys.argv) != 5:
     email = sys.argv[3]
     dept = sys.argv[4]
 else:
-    print("name:", "deeksha")
-    print("reg_no:", 62)
-    print("email:", "deeksha@11")
-    print("dept:", "bca")
+    name= "deeksha"
+    reg_no=" 62"
+    email= "deeksha@11"
+    dept= "bca"
 
 print("Registration successful")
 print("Student Name:", name)
